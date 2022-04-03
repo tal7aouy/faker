@@ -1,0 +1,44 @@
+{
+  "name": "tal7aouy/faker",
+  "type": "library",
+  "description": "Faker is a PHP library that generates fake data for you in an easy way",
+  "license": "MIT",
+  "keywords": [
+    "faker",
+    "data",
+    "generate data",
+    "fake data",
+    "php faker"
+  ],
+  "homepage": "https://github.com/tal7aouy/faker",
+  "support": {
+    "issues": "https://github.com/tal7aouy/faker/issues",
+    "source": "https://github.com/tal7aouy/faker"
+  },
+  "authors": [
+    {
+      "name": "tal7aouy",
+      "email": "tal7aouy@gmail.com",
+      "role": "PHP Developer"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0 || ^8.0"
+  },
+  "conflict": {
+    "fzaninotto/faker": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Faker": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
