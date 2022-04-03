@@ -5,7 +5,7 @@ Faker is a PHP library that generates fake data for you, Faker is for you.
 
 Faker requires PHP >= 5.3.3.
 
-[Faker][php] Faker is heavily inspired by [Faker][ruby] of [`Data::Faker`][perl].
+Faker is heavily inspired by Perl's [Data::Faker](http://search.cpan.org/~jasonk/Data-Faker-0.07/), and by ruby's [Faker](https://rubygems.org/gems/faker).
 
 ### INSTALLATION
 
